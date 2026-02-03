@@ -2,8 +2,8 @@
 <h2>A Cybersecurity and Cloud Technology Enthusiast</h2>
 <h2>👨‍💻 Cybersecurity and Cloud Projects and Labs:</h2>
 
-  - [Application Gateway Project - Azure](https://github.com/idrisakanni1/Application-Gateway)
-  - [Azure Database Service Lab](https://github.com/idrisakanni1/Database-lab)
+  - [Application Gateway Project - Azure](https://github.com/idrisakanni1/AppGatewayLab))
+  - [Azure Database Service Lab](https://github.com/idrisakanni1/AppGatewayLab)
 <h2>Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
